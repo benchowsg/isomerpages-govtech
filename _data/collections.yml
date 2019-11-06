@@ -1,0 +1,57 @@
+collections:
+    -
+        title: 'Who We Are'
+        collection: who-we-are
+        collectionPages:
+            -
+                title: 'Our Role'
+                url: /who-we-are/our-role/
+                filepath: _who-we-are/1-our-role.md
+            -
+                title: 'Our Journey'
+                url: /who-we-are/our-journey/
+                filepath: _who-we-are/2-our-journey.md
+            -
+                title: 'Our Culture and Values'
+                url: /who-we-are/our-culture-and-values/
+                filepath: _who-we-are/3-our-culture-and-values.md
+            -
+                title: 'Our Digital Government Rankings'
+                url: /who-we-are/our-digital-government-rankings/
+                filepath: _who-we-are/4-our-digital-government-rankings.md
+            -
+                title: 'Our Statistics'
+                url: /who-we-are/our-statistics/
+                filepath: _who-we-are/5-our-statistics.md
+            -
+                title: 'Our Team'
+                url: /who-we-are/our-team/
+                filepath: _who-we-are/6-our-team.md
+    -
+        title: Careers
+        collection: careers
+        collectionPages:
+            -
+                title: Overview
+                url: /careers/overview/
+                filepath: _careers/1-Careers-Overview.md
+            -
+                title: 'How We Hire'
+                url: /careers/how-we-hire/
+                filepath: _careers/2-How-We-Hire.md
+            -
+                title: 'How We Work'
+                url: /careers/how-we-work/
+                filepath: _careers/3-How-We-Work.md
+            -
+                title: 'Students and Graduates'
+                url: /careers/students-and-graduates/
+                filepath: _careers/4-students-and-graduates.md
+            -
+                title: 'Smart Nation Fellowship Programme'
+                url: /careers/smart-nation-fellowship-programme/
+                filepath: _careers/5-smart-nation-fellowship-programme.md
+            -
+                title: 'The GovTech Alumni Network'
+                url: /careers/the-govtech-network/
+                filepath: _careers/6-the-govtech-network.md
